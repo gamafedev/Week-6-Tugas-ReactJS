@@ -1,9 +1,10 @@
-import Komponen from "./materi/komponen";
+import Portfolio from "./Portfolio";
+
 
 function App() {
   return (
     <div className="App">
-     <Komponen/>
+     <Portfolio/>
     </div>
   );
 }

@@ -1,0 +1,35 @@
+// Header -Start
+.jumbotron {
+    background-image: url(./Header/headerimg.jpg);
+    max-width: 100%;
+    height: 400px;
+    box-sizing: border-box;
+    background-size: cover;
+
+    h1,
+    h3 {
+        color: aqua;
+        text-align: center;
+    }
+
+    h3 {
+        padding-top: 130px;
+    }
+
+    Button {
+        color: white;
+        display: flex;
+        justify-content: center;
+        margin: 20px auto;
+    }
+}
+
+// Content Start
+.skill-section {
+    margin: 150px 0 150px 0;
+}
+
+// Contact Start
+Form {
+    margin-bottom: 50px;
+}
