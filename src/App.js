@@ -1,10 +1,11 @@
-import Portfolio from "./Portfolio";
+
+import LearnForm from "./materi/form";
 
 
 function App() {
   return (
     <div className="App">
-     <Portfolio/>
+     <LearnForm/>
     </div>
   );
 }
